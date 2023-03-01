@@ -48,7 +48,7 @@ class SchoolStudent implements Comparable<SchoolStudent>{
 
 public class ArrayCustomObjColl {
     public static void main(String[] args) {
-        ArrayList<SchoolStudent>StudentList  = new ArrayList<SchoolStudent>();
+        ArrayList<SchoolStudent>StudentList  = new ArrayList<SchoolStudent>();1
         StudentList.add(new SchoolStudent(1,"eshu","kv"));
         StudentList.add(new SchoolStudent(2,"ishita","kv"));
         StudentList.add(new SchoolStudent(3,"naseeta","kv"));
